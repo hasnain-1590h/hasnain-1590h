@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Hasnain I am web developer I learn frontend backend websites I designed my own custom design using php/Laravel database or cms
+Hi, I'm Hasnain, a passionate Web Developer with experience in both frontend and backend web development. I build modern, responsive, and user-friendly websites using HTML, CSS, JavaScript, Bootstrap, PHP, Laravel, MySQL, and CMS platforms such as WordPress.
 
 
 # 💻 Tech Stack:
