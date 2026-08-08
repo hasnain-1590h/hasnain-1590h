@@ -1,12 +1,12 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111f,50:12305c,100:1a2a4a&height=220&section=header&text=%3CM%20HASNAIN%20%2F%3E&fontSize=48&fontColor=38BDF8&fontAlignY=38&desc=Frontend%20Developer%20•%20SEO%20Specialist&descAlignY=58&descSize=18&descColor=8FA3C0&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111f,50:12305c,100:1a2a4a&height=220&section=header&text=M%20HASNAIN&fontSize=48&fontColor=38BDF8&fontAlignY=38&desc=Frontend%20Developer%20-%20SEO%20Specialist&descAlignY=58&descSize=18&descColor=8FA3C0" width="100%"/>
 </div>
 
 <table>
 <tr>
 <td width="220" valign="top" align="center">
 
-<img src="https://github.com/hasnain-1590h.png" width="150" style="border-radius:50%;" />
+<img src="https://api.dicebear.com/7.x/bottts-neutral/png?seed=hasnain-1590h&backgroundColor=07111f&radius=50" width="150" />
 
 ### M Hasnain
 
@@ -31,14 +31,18 @@
 
 ### On a journey to becoming a great developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=38BDF8&center=false&vCenter=true&width=500&lines=Frontend+Developer+%7C+SEO+Specialist;Building+responsive%2C+accessible+websites;HTML+%E2%80%A2+CSS+%E2%80%A2+JS+%E2%80%A2+PHP+%E2%80%A2+Laravel;Currently+leveling+up+in+backend+dev" />
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
 
 **M Hasnain** is a self-taught frontend developer who loves turning ideas into clean, responsive, user-friendly websites. Currently sharpening backend skills and diving deeper into Laravel and technical SEO, one project at a time.
 
-<img src="https://img.shields.io/badge/-Focus:%20Responsive%2C%20accessible%2C%20performance--first%20sites-0f2847?style=flat-square&logo=googlechrome&logoColor=38BDF8" /><br/>
-<img src="https://img.shields.io/badge/-Stack:%20HTML%20•%20CSS%20•%20JS%20•%20PHP%20•%20Laravel%20•%20MySQL-0f2847?style=flat-square&logo=stackshare&logoColor=38BDF8" /><br/>
-<img src="https://img.shields.io/badge/-Learning:%20Laravel%20%26%20Backend%20Dev-0f2847?style=flat-square&logo=readthedocs&logoColor=38BDF8" /><br/>
-<img src="https://img.shields.io/badge/-Ask%20me%20about:%20HTML%2FCSS%2C%20JS%2C%20Bootstrap%2C%20PHP%2C%20WordPress-0f2847?style=flat-square&logo=googlechat&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/-Focus%3A%20Responsive%2C%20accessible%2C%20performance--first%20sites-0f2847?style=flat-square&logo=googlechrome&logoColor=38BDF8" /><br/>
+<img src="https://img.shields.io/badge/-Stack%3A%20HTML%20%7C%20CSS%20%7C%20JS%20%7C%20PHP%20%7C%20Laravel%20%7C%20MySQL-0f2847?style=flat-square&logo=stackshare&logoColor=38BDF8" /><br/>
+<img src="https://img.shields.io/badge/-Learning%3A%20Laravel%20%26%20Backend%20Dev-0f2847?style=flat-square&logo=readthedocs&logoColor=38BDF8" /><br/>
+<img src="https://img.shields.io/badge/-Ask%20me%20about%3A%20HTML%2FCSS%2C%20JS%2C%20Bootstrap%2C%20PHP%2C%20WordPress-0f2847?style=flat-square&logo=googlechat&logoColor=38BDF8" />
 
 </td>
 </tr>
@@ -48,7 +52,7 @@
 
 <div align="center">
 
-## <img src="https://img.shields.io/badge/-Journey-07111f?style=for-the-badge&logo=roadmapdotsh&logoColor=38BDF8" />
+## <img src="https://img.shields.io/badge/-Journey-07111f?style=for-the-badge&logo=git&logoColor=38BDF8" />
 
 </div>
 
