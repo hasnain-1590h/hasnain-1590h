@@ -1,33 +1,39 @@
-### M Hasnain
 
-**Frontend Developer**
 
-#### About
+M Hasnain
 
-**M Hasnain** is a self-taught frontend developer focused on building clean, responsive, and user-friendly websites. Skilled in HTML, CSS, Bootstrap, JavaScript, jQuery, PHP, MySQL, and WordPress, with hands-on experience creating personal and client-style web projects. Currently learning Laravel and improving technical SEO skills.
+Frontend Developer
 
----
 
-```text
-2023  ●───  Started learning HTML, CSS & JavaScript
-2024  ●───  Built responsive websites using Bootstrap & JavaScript
-2025  ●───  Learned PHP, MySQL & started WordPress development
-2026  ●───  Working with Laravel & improving SEO knowledge
-Now   ●───  Building projects and growing as a frontend developer
-```
 
----
+About
 
-Responsive & user-friendly websites
+M Hasnain is a self-taught frontend developer who loves turning ideas into clean, responsive, user-friendly websites. Currently sharpening backend skills and diving deeper into Laravel and technical SEO, one project at a time.
 
-HTML, CSS, Bootstrap, JavaScript & jQuery
 
-PHP, MySQL & WordPress development
 
-Learning Laravel & technical SEO
 
-Building real-world projects & improving development skills
 
----
+2023  ●───  Started learning HTML, CSS & JavaScript fundamentals
+2024  ●───  Built responsive projects with Bootstrap & explored PHP
+2025  ●───  Went deeper into PHP, MySQL & started WordPress development
+2026  ●───  Exploring Laravel, backend architecture & technical SEO
+Now   ●───  Building a strong full-stack foundation, one project at a time
 
-[hasnain-codes.up.railway.app](https://hasnain-codes.up.railway.app)
+
+
+Responsive, SEO-friendly websites & personal portfolio projects
+
+Laravel, backend architecture & database design
+
+Become a confident full-stack web developer
+
+Freelance frontend work & collaborative projects
+
+
+
+
+
+
+
+hasnain-codes.up.railway.app
