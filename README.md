@@ -1,4 +1,8 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111f,50:12305c,100:1a2a4a&height=200&section=header" width="100%"/> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=60&lines=M+HASNAIN;FRONTEND+DEVELOPER;SEO+SPECIALIST" />
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111f,50:12305c,100:1a2a4a&height=200&section=header" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=60&lines=M+HASNAIN;Web+DEVELOPER;SEO+SPECIALIST" />
 
 </div>
 
@@ -10,7 +14,7 @@
 
 ### M Hasnain
 
-**Web Developer**
+**Frontend Developer**
 
 <img src="https://img.shields.io/badge/-Karachi%2C%20Pakistan-1a2a4a?style=flat-square" />
 
@@ -39,7 +43,7 @@
 
 #### About
 
-**M Hasnain** is a self-taught Web developer who loves turning ideas into clean, responsive, user-friendly websites. Currently sharpening backend skills and diving deeper into Laravel and technical SEO, one project at a time.
+**M Hasnain** is a self-taught frontend developer who loves turning ideas into clean, responsive, user-friendly websites. Currently sharpening backend skills and diving deeper into Laravel and technical SEO, one project at a time.
 
 <img src="https://img.shields.io/badge/-Focus%3A%20Responsive%2C%20accessible%2C%20performance--first%20sites-0f2847?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" /><br/>
 <img src="https://img.shields.io/badge/-Stack%3A%20HTML%20%7C%20CSS%20%7C%20JS%20%7C%20PHP%20%7C%20Laravel%20%7C%20MySQL-0f2847?style=for-the-badge&logo=stackshare&logoColor=38BDF8" /><br/>
@@ -134,7 +138,9 @@ Freelance frontend work & collaborative projects
 
 <div align="center">
 
+## <img src="https://img.shields.io/badge/-Achievements-07111f?style=for-the-badge&logo=trophy&logoColor=38BDF8" />
 
+<img src="https://github-profile-trophy.vercel.app/?username=hasnain-1590h&theme=darkhub&no-frame=true&row=1&column=7" />
 
 </div>
 
@@ -148,6 +154,6 @@ Freelance frontend work & collaborative projects
 
 <img src="https://img.shields.io/badge/CHECK%20OUT%20MY%20WORK-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" />
 
-[hasnain-codes.up.railway.app](https://hasnain-codes.up.railway.app)
+[snain-codes.up.railway.app](https://snain-codes.up.railway.app)
 
 </div>
