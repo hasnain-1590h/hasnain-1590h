@@ -138,8 +138,6 @@ Freelance frontend work & collaborative projects
 
 
 
-<img src="https://github-profile-trophy.vercel.app/?username=hasnain-1590h&theme=darkhub&no-frame=true&row=1&column=7" />
-
 </div>
 
 <br/>
