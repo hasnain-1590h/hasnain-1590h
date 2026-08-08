@@ -12,7 +12,7 @@
 
 ### M Hasnain
 
-**Frontend Developer**
+**Web Developer**
 
 <img src="https://img.shields.io/badge/-Karachi%2C%20Pakistan-1a2a4a?style=flat-square" />
 
@@ -41,7 +41,7 @@
 
 #### About
 
-**M Hasnain** is a self-taught frontend developer who loves turning ideas into clean, responsive, user-friendly websites. Currently sharpening backend skills and diving deeper into Laravel and technical SEO, one project at a time.
+**M Hasnain** is a self-taught Web developer who loves turning ideas into clean, responsive, user-friendly websites. Currently sharpening backend skills and diving deeper into Laravel and technical SEO, one project at a time.
 
 <img src="https://img.shields.io/badge/-Focus%3A%20Responsive%2C%20accessible%2C%20performance--first%20sites-0f2847?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" /><br/>
 <img src="https://img.shields.io/badge/-Stack%3A%20HTML%20%7C%20CSS%20%7C%20JS%20%7C%20PHP%20%7C%20Laravel%20%7C%20MySQL-0f2847?style=for-the-badge&logo=stackshare&logoColor=38BDF8" /><br/>
