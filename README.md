@@ -151,6 +151,6 @@ Freelance frontend work & collaborative projects
 
 <img src="https://img.shields.io/badge/CHECK%20OUT%20MY%20WORK-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" />
 
-[snain-codes.up.railway.app](https://snain-codes.up.railway.app)
+[Hasnain-codes.up.railway.app](https://hasnain-codes.up.railway.app)
 
 </div>
