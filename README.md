@@ -136,7 +136,7 @@ Freelance frontend work & collaborative projects
 
 <div align="center">
 
-## <img src="https://img.shields.io/badge/-Achievements-07111f?style=for-the-badge&logo=trophy&logoColor=38BDF8" />
+
 
 <img src="https://github-profile-trophy.vercel.app/?username=hasnain-1590h&theme=darkhub&no-frame=true&row=1&column=7" />
 
