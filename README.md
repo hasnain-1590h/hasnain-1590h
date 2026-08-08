@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111f,50:12305c,100:1a2a4a&height=200&section=header" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=60&lines=M+HASNAIN;Web+DEVELOPER;SEO+SPECIALIST" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=60&lines=M+HASNAIN;Web+DEVELOPER;SEO+SPECIALIST;Graphic+Designer" />
 
 </div>
 
